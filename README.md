@@ -48,7 +48,7 @@ This project is licensed under the MIT License.
 
 # Contact
 
-For questions or feedback, open an issue on GitHub Issues.
+For questions or feedback, open an issue on GitHub Issues https://github.com/Dhvaniparghi2003/Plura-Link-Management-Platform/issues.
 
 
 
